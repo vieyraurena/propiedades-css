@@ -1,0 +1,13 @@
+* {
+  margin: 220px;
+  padding: 0px; 
+}
+
+body {
+  width: 800px;
+  height: 100%;
+  background-color: #726a95;
+  background-image: url('../img/tree.png');
+  background-repeat: no-repeat;
+  background-position: right bottom;
+}
