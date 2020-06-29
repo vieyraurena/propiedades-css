@@ -11,3 +11,18 @@ body {
   background-repeat: no-repeat;
   background-position: right bottom;
 }
+
+table {
+  background-color: #709fb0;
+  margin: 250px auto;
+  width: 800px;
+  font-family: roboto, sans-serif;
+  font-size: 18px;
+  border-collapse: collapse;
+}
+
+th, td {
+  padding: 15px;
+  color: aliceblue;
+  line-height: 20px;
+}
