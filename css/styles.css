@@ -26,3 +26,16 @@ th, td {
   color: aliceblue;
   line-height: 20px;
 }
+
+tr:nth-child(even) {
+  background-color: #a0c1b8;
+}
+
+.tittle {
+  background-color: #413964;
+  font-size: 25px;
+  letter-spacing: 3px;
+  text-decoration: underline;
+  color: aliceblue;
+  text-align: center;
+}
